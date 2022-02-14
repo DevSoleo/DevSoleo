@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I'm Soleo 👋
 
-<!--
-**DevSoleo/DevSoleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French developer 🇫🇷 ! I'm interested in OSINT and privacy on Internet.
 
-Here are some ideas to get you started:
+I have worked on many different projects, from World of Warcraft addons, to websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also practice networking and cybersecurity on my free time.
+
+You can find my portfolio here : https://devsoleo.com
+
+📫 You can reach me by :
+- E-mail - contact@devsoleo.com
+- Twitter - [@DevSoleo](https://github.com/DevSoleo)
