@@ -3,9 +3,9 @@
 I'm a French developer 🇫🇷 ! 
 I'm interested in OSINT and privacy on internet.
 
-I am studying at Microsoft Simplon, currently learning network and cybersecurity.
+In addition to my experience as a developer, I have a 4-year degree in cloud administration and devops.
 
-I have worked on many different projects, management tools, websites, and made softwares for companies.
+As a freelancer, I've worked on many different projects, management tools, websites and software for companies.
 
 📫 You can reach me by :
 - E-mail - devsoleo@protonmail.com
